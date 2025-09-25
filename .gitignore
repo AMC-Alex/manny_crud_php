@@ -1,0 +1,15 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración sensibles
+.env
+*.log
+
+# Archivos temporales
+*.cache
+*.tmp
+*.bak
+
+# Dependencias de PHP (si usas Composer)
+vendor/
